@@ -1,89 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="9.4738178mm"
-   height="5.987216mm"
-   viewBox="0 0 9.4738178 5.987216"
-   version="1.1"
-   id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="Troll.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="10.734099"
-     inkscape:cx="10.799032"
-     inkscape:cy="3.6982422"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:snap-global="false"
-     inkscape:window-width="1352"
-     inkscape:window-height="736"
-     inkscape:window-x="5"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-89.286559,-216.82049)">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 90.302415,221.51799 1.420545,1.13908 4.676759,-0.056 1.224891,-0.84864 -0.06211,-0.72388 -0.985477,-0.13847 -5.570956,0.0268 -0.648033,0.31396 z"
-       id="path24" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 90.638937,221.09617 -0.240501,-1.07853 -0.618805,-0.52163 -0.345247,-0.92564 0.797087,-1.19455 0.714428,0.0202 0.524846,0.5134 0.0412,1.30216 -0.620768,0.68916 -0.477253,0.11241 z"
-       id="path26"
-       sodipodi:nodetypes="ccccccccccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 90.721034,217.3626 0.331247,-0.40368 0.85657,0.0662 0.796089,0.82682 2.749124,-0.004 0.735674,-0.78482 1.071091,0.0107 0.19145,0.26596 0.481791,0.0382 0.576813,0.58729 0.112741,1.30412 -0.797645,0.88445 -0.936479,-0.46695 -0.451276,-0.74561 0.131003,-1.1769 0.853281,-0.48888"
-       id="path28"
-       sodipodi:nodetypes="cccccccccccccccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 97.349064,220.98121 0.476913,-0.82737"
-       id="path30"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 89.434383,218.57037 2.059263,-0.1921"
-       id="path32" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 98.656022,218.47597 -2.17552,-0.1286"
-       id="path34" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 90.612377,221.04215 -0.198453,-1.029 0.477252,-0.11241 0.620768,-0.68916 -0.0412,-1.30216 -0.524846,-0.5134 c -0.227699,-0.17707 -0.135687,-0.002 0.106384,-0.4371 l 0.85657,0.0662 0.796089,0.82682 2.749124,-0.004 0.735674,-0.78482 1.071089,0.0107 0.19145,0.26596 -0.883052,0.4246 -0.131001,1.1769 0.451276,0.74561 0.936477,0.46695 -0.476914,0.82737 -0.737338,-0.34781 -5.570956,0.0268 z"
-       id="path859"
-       sodipodi:nodetypes="ccccccccccccccccccccc" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9.4738mm" height="5.9872mm" version="1.1" viewBox="0 0 9.4738 5.9872" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-89.287 -216.82)">
+<path d="m90.302 221.52 1.4205 1.1391 4.6768-0.056 1.2249-0.84864-0.06211-0.72388-0.98548-0.13847-5.571 0.0268-0.64803 0.31396z" stroke="#fff" stroke-width=".3"/>
+<path d="m90.639 221.1-0.2405-1.0785-0.6188-0.52163-0.34525-0.92564 0.79709-1.1946 0.71443 0.0202 0.52485 0.5134 0.0412 1.3022-0.62077 0.68916-0.47725 0.11241z" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".265"/>
+<path d="m90.721 217.36 0.33125-0.40368 0.85657 0.0662 0.79609 0.82682 2.7491-4e-3 0.73567-0.78482 1.0711 0.0107 0.19145 0.26596 0.48179 0.0382 0.57681 0.58729 0.11274 1.3041-0.79764 0.88445-0.93648-0.46695-0.45128-0.74561 0.131-1.1769 0.85328-0.48888" fill="none" stroke="#000" stroke-width=".26458px"/>
+<path d="m97.349 220.98 0.47691-0.82737" fill="none" stroke="#000" stroke-width=".26458px"/>
+<path d="m89.434 218.57 2.0593-0.1921" fill="none" stroke="#000" stroke-width=".26458px"/>
+<path d="m98.656 218.48-2.1755-0.1286" fill="none" stroke="#000" stroke-width=".26458px"/>
+<path d="m90.612 221.04-0.19845-1.029 0.47725-0.11241 0.62077-0.68916-0.0412-1.3022-0.52485-0.5134c-0.2277-0.17707-0.13569-2e-3 0.10638-0.4371l0.85657 0.0662 0.79609 0.82682 2.7491-4e-3 0.73567-0.78482 1.0711 0.0107 0.19145 0.26596-0.88305 0.4246-0.131 1.1769 0.45128 0.74561 0.93648 0.46695-0.47691 0.82737-0.73734-0.34781-5.571 0.0268z" stroke="#000" stroke-width=".26458px"/>
+</g>
 </svg>

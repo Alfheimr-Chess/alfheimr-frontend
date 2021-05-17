@@ -1,68 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8.7048712mm"
-   height="7.7310796mm"
-   viewBox="0 0 8.7048712 7.7310796"
-   version="1.1"
-   id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="Crocodile.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="12.037316"
-     inkscape:cx="16.891458"
-     inkscape:cy="15.749545"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="805"
-     inkscape:window-height="736"
-     inkscape:window-x="5"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-95.900761,-151.06084)">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 98.578589,151.19429 1.900801,0.71119 1.6294,1.16301 -0.35269,-0.8384 0.16192,-0.5195 0.56162,0.47713 0.39448,0.86275 -0.20836,0.60873 0.50151,0.75354 0.1189,1.2105 0.5074,0.0564 0.24991,0.52363 0.38393,0.31408 -0.33024,0.4775 -0.49002,0.0222 -0.30228,0.0582 -0.58982,0.94747 -0.86938,0.58469 -5.442046,0.0478 1.360041,-0.78255 1.193842,-0.25377 0.950804,-0.0379 1.018779,-0.0234 0.51532,-1.37577 -1.28558,0.55178 -0.995963,0.0271 0.209889,-0.416 0.584767,-0.005 0.642507,-0.50841 0.54781,-0.22478 -0.78366,-0.99399 -0.792539,0.5913 -1.082421,-0.0759 0.176382,-0.64348 1.236444,-0.19964 -0.248979,-0.94753 -1.672002,-0.0232 -0.952913,-0.21639 1.564751,-0.49934 -1.396592,-0.36337 -1.033794,-0.54916 0.02019,-0.37629 z"
-       id="path26"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.284814"
-       id="path851"
-       cx="98.244026"
-       cy="151.65536"
-       rx="0.22191258"
-       ry="0.21213436" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8.7049mm" height="7.7311mm" version="1.1" viewBox="0 0 8.7049 7.7311" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-95.901 -151.06)">
+<path d="m98.579 151.19 1.9008 0.71119 1.6294 1.163-0.35269-0.8384 0.16192-0.5195 0.56162 0.47713 0.39448 0.86275-0.20836 0.60873 0.50151 0.75354 0.1189 1.2105 0.5074 0.0564 0.24991 0.52363 0.38393 0.31408-0.33024 0.4775-0.49002 0.0222-0.30228 0.0582-0.58982 0.94747-0.86938 0.58469-5.442 0.0478 1.36-0.78255 1.1938-0.25377 0.9508-0.0379 1.0188-0.0234 0.51532-1.3758-1.2856 0.55178-0.99596 0.0271 0.20989-0.416 0.58477-5e-3 0.64251-0.50841 0.54781-0.22478-0.78366-0.99399-0.79254 0.5913-1.0824-0.0759 0.17638-0.64348 1.2364-0.19964-0.24898-0.94753-1.672-0.0232-0.95291-0.21639 1.5648-0.49934-1.3966-0.36337-1.0338-0.54916 0.02019-0.37629z" stroke="#000" stroke-width=".26458px"/>
+<ellipse cx="98.244" cy="151.66" rx=".22191" ry=".21213" fill="#fff" stroke-width=".28481"/>
+</g>
 </svg>

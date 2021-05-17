@@ -1,64 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="7.9468303mm"
-   height="7.2760158mm"
-   viewBox="0 0 7.9468303 7.2760158"
-   version="1.1"
-   id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="Rhinocerus.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="13.311252"
-     inkscape:cx="14.798342"
-     inkscape:cy="15.021509"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1352"
-     inkscape:window-height="736"
-     inkscape:window-x="5"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-56.414803,-69.341657)">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 63.571812,76.472102 0.442786,-0.972071 0.214376,-2.183199 -0.09558,-1.68407 -0.528283,-0.566661 -1.006502,0.05101 -0.02925,-0.855493 -0.619286,-0.750147 -0.434039,0.200152 0.14673,1.305071 -0.442224,-0.967389 -0.744792,-0.54216 -0.504399,0.391538 0.878578,1.103943 -0.04556,0.682566 -0.716142,0.790933 -0.895049,-0.987984 -0.225726,0.499547 0.292687,1.072166 -0.186357,0.117247 -0.725617,-0.899303 -0.554273,-0.902382 -0.450871,-1.027761 -0.621937,1.552916 -0.17253,1.429144 0.188616,1.026684 0.529188,1.025269 1.089194,0.896265 2.378972,0.162989 2.319444,-1.387118 0.259715,1.379736 z"
-       id="path24" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 60.405046,73.193012 -0.834207,0.687779 0.295449,0.426421 1.040019,-0.527743 0.01093,-0.686369 z"
-       id="path26" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7.9468mm" height="7.276mm" version="1.1" viewBox="0 0 7.9468 7.276" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-56.415 -69.342)">
+<path d="m63.572 76.472 0.44279-0.97207 0.21438-2.1832-0.09558-1.6841-0.52828-0.56666-1.0065 0.05101-0.02925-0.85549-0.61929-0.75015-0.43404 0.20015 0.14673 1.3051-0.44222-0.96739-0.74479-0.54216-0.5044 0.39154 0.87858 1.1039-0.04556 0.68257-0.71614 0.79093-0.89505-0.98798-0.22573 0.49955 0.29269 1.0722-0.18636 0.11725-0.72562-0.8993-0.55427-0.90238-0.45087-1.0278-0.62194 1.5529-0.17253 1.4291 0.18862 1.0267 0.52919 1.0253 1.0892 0.89626 2.379 0.16299 2.3194-1.3871 0.25972 1.3797z" stroke="#000" stroke-width=".26458px"/>
+<path d="m60.405 73.193-0.83421 0.68778 0.29545 0.42642 1.04-0.52774 0.01093-0.68637z" fill="#fff" stroke-width="0"/>
+</g>
 </svg>
