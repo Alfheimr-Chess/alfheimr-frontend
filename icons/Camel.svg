@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.7516322mm"
+   height="8.9512129mm"
+   viewBox="0 0 6.7516322 8.9512129"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Camel.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.5279231"
+     inkscape:cx="9.3447601"
+     inkscape:cy="17.328656"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1352"
+     inkscape:window-height="736"
+     inkscape:window-x="5"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.74495,-180.49487)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.329331,186.79307 -0.162325,0.58427 -2.229757,1.89884 -1.723708,-1.31593 -0.350678,-0.61835 -0.08058,-2.34768 1.179491,-1.54056 -0.901295,-0.0554 -0.793808,0.68663 -1.14426,0.0222 -0.239921,-0.46866 0.08606,-0.52989 1.021774,-1.08368 2.024438,-0.89813 1.271164,-0.0467 0.1822,-0.43674 0.558758,0.0971 -0.276733,1.05705 0.495882,0.0887 -0.02082,2.0111 -1.091814,1.40884 -0.04136,0.91638 0.689488,0.32914 z"
+       id="path24" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62.492431,181.57457 -0.516329,0.15127 0.133131,0.41281 0.292679,-0.0507 z"
+       id="path17" />
+  </g>
+</svg>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7.4281607mm"
+   height="8.3646851mm"
+   viewBox="0 0 7.4281607 8.3646851"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Sorceress.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.6334171"
+     inkscape:cx="-0.83425215"
+     inkscape:cy="24.376124"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1352"
+     inkscape:window-height="736"
+     inkscape:window-x="5"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-86.628291,-197.01002)">
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path24"
+       sodipodi:sides="5"
+       sodipodi:cx="90.286812"
+       sodipodi:cy="201.00711"
+       sodipodi:r1="3.5662134"
+       sodipodi:r2="1.7831064"
+       sodipodi:arg1="0.96714274"
+       sodipodi:arg2="1.5954613"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 92.311188,203.94306 -2.068352,-1.15339 -2.122709,1.04999 0.457776,-2.32353 -1.654551,-1.69435 2.351272,-0.28264 1.100139,-2.09716 0.995391,2.14885 2.334475,0.39824 -1.736087,1.61071 z"
+       inkscape:transform-center-x="-0.016137012"
+       inkscape:transform-center-y="0.32515489"
+       transform="rotate(33.747718,90.286813,201.00711)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path24-2"
+       sodipodi:sides="5"
+       sodipodi:cx="90.286812"
+       sodipodi:cy="201.00711"
+       sodipodi:r1="3.5662134"
+       sodipodi:r2="1.7831064"
+       sodipodi:arg1="0.96714274"
+       sodipodi:arg2="1.5954613"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="-0.45235204"
+       inkscape:transform-center-y="-0.64481493"
+       transform="rotate(-1.2527707,84.317523,196.82983)"
+       d="m 92.311188,203.94306 -2.068352,-1.15339 -2.122709,1.04999 0.457776,-2.32353 -1.654551,-1.69435 2.351272,-0.28264 1.100139,-2.09716 0.995391,2.14885 2.334475,0.39824 -1.736087,1.61071 z" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.736097,205.23787 0.429543,-0.98587 2.447166,-0.0175 0.529063,0.9281 z"
+       id="path871" />
+  </g>
+</svg>

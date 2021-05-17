@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Alheimr: Lego/Chess hybrid?</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="UTF-8">
+		<script src="https://kit.fontawesome.com/2f18762e10.js" crossorigin="anonymous"></script>
+	</head>
+	<body onload="genBoard(8, 8);">
+		<input type="checkbox" class="theme-switch" id="theme-switch">
+		<div id="page">
+         <div id="background"></div>
+         <div id="main-container">
+				<div id="header">
+               <div id="ascii-art">
+                  <pre>
+     ..     .              ..                                     .
+  :**888H:.XX\x H""  x .d88"     oec :    .uef^"                 @88>
+ X   `8888XXXX888     5888R     @88888  :d88E                    %8P      ..    .     :       .u    .
+'8hx  48888.'8888     '888R     8"*88%  `888E            .u       .     .888: x888  x888.   .d88B :@8c
+'8888 '8888  8888      888R     8b.      888E .z8k    ud8888.   .@88u  ~`8888~'888X`?888f` ="8888f8888r
+ %888>'8888. 8888      888R    u888888>  888E~?888L :888'8888. ''888E`   X888  888X '888>    4888>'88"
+   "8 '8888888888      888R     8888R    888E  888E d888 '88%"   888E    X888  888X '888>    4888> '
+  .-` X*"    8888      888R     8888P    888E  888E 8888.+"      888E    X888  888X '888>    4888>
+    .xhx.    8888      888R     *888>    888E  888E 8888L        888E    X888  888X '888>   .d888L .+
+  .H88888h.~`8888.>   .888B .   4888     888E  888E '8888c. .+   888&   "*88%""*88" '888!`  ^"8888*"
+ .~  `%88!` '888*~    ^*888%    '888    m888N= 888>  "88888%     R888"    `~    "    `"`       "Y"
+       `"     ""        "%       88R     `Y"   888     "YP'       ""
+                                 88>          J88"
+                                 48           @%
+                                 '8         :"</pre>
+               </div>
+               <h2>A Chess/Lego hybrid?</h2>
+					<div class="background" id="navbar">
+						<a href="#">Menu Item!</a>
+						<a href="#">Menu Item!</a>
+						<a href="#">Menu Item!</a>
+						<a id="menu-connect" onclick="connectSocket()">Connect</a>
+						<input id="server-ip" value="127.0.0.1:1126"></input>
+						<label class="switch-label" for="theme-switch"></label>
+					</div>
+				</div>
+				<div class="background">
+              <div id="board-container">
+                  <div id="board">
+                     <!-- Generate board here -->
+                  </div>
+					</div>
+               <div class="controls">
+                  <div id="banner">
+                     <h1 id="bannerText"></h1>
+                  </div>
+                  <div class="controls-buttons">
+                     <h1 id="gmTitle">Welcome!</h1> <!-- Turn this into gamemode title -->
+										 <div id="button-bar">
+	                     <button style="grid-area: a;">TakeBack</button>
+  	                   <button style="grid-area: b" onClick="surrender()">Surrender</button>
+										 	 <button onClick="flipper()" style="grid-area: c;">
+											 		<i class="fas fa-sync-alt"></i>
+											 </button>
+											 <button id="bButton" onClick="goBack()" style="grid-area: d;">
+											 		<i class="fas fa-backward"></i>
+												</button>
+											 <button id="fButton" onClick="goBackSquared()" style="grid-area: e;">
+											 	  <i class="fas fa-forward"></i>
+											 </button>
+										 </div>
+										 <h2 id="turnDisplay">Turn Counter goes here...</h2>
+										 <h3 id="turnCounter"></h3>
+                  </div>
+               </div>
+      	   </div>
+			</div>
+		</div>
+		<script src="script.js"></script>
+	</body>
+</html>
