@@ -45,6 +45,7 @@ function bannerWinner(id) {
 // Websocket shit
 var socket;
 function connectSocket() {
+	// @ts-ignore
 	var ip = <HTMLInputElement>document.getElementById("server-ip").value;
 	
 	socket = new WebSocket("ws://"+ip);
@@ -180,7 +181,9 @@ function drawJSON(jsonString, socket) {
   // Start by reading the info
 	let JSON_obj = JSON.parse(jsonString);
 
+  // @ts-ignore
   var startHeight = parseInt(document.getElementById("board").offsetHeight);
+  // @ts-ignore
   var startWidth = parseInt(document.getElementById("board").offsetWidth);
 	
   let board = JSON_obj.data.board;
@@ -368,6 +371,7 @@ function addOnClick(width, height) {
          moves[id].push(getId(to[0], to[1], width));
    }
 
+   // @ts-ignore
    for(let [key, val] of Object.entries(moves)) {
       let from = document.getElementById("board-gridId-"+key);
       from.addEventListener("mousedown" , function() {
